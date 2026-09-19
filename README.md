@@ -1,4 +1,4 @@
-                           ![](https://komarev.com/ghpvc/?username=yoo-joonghyuk&color=grey)
+                           ![](https://komarev.com/ghpvc/?username=yoo-joonghyuk&color=blue)
 
 
 
