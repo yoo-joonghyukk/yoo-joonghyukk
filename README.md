@@ -1,3 +1,5 @@
+![Views](https://seeyoufarm.com)
+
 
 ![artfight pic ;-;](https://github.com/user-attachments/assets/51daaa03-c7aa-4711-9a6f-c7db87994b43)
 
