@@ -2,7 +2,7 @@
 
 
 
-
+https://64.media.tumblr.com/be21fa9c6946661a4c0054686dbc6ed6/75fd9c94bba3153b-f4/s400x600/26cacf829d7633f526482694361d5c8e5dbc8ff3.pnj
 ![artfight pic ;-;](https://github.com/user-attachments/assets/51daaa03-c7aa-4711-9a6f-c7db87994b43)
 
 
