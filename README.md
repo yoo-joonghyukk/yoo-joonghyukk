@@ -1,5 +1,4 @@
-![Views](https://komarev.com)
-
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 
 
