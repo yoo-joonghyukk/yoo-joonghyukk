@@ -2,7 +2,8 @@
 
 
 
-<img src="https://github.com" width="100%" alt="Joongdok Banner">
+<img width="1024" height="516" alt="ede6d43081f98dfbbfa86fe88af64b1f" src="https://github.com/user-attachments/assets/9cc45439-2e8d-4108-8c10-ca37837df3a3" />
+="https://github.com" width="100%" alt="Joongdok Banner">
 
 
 
