@@ -1,5 +1,5 @@
 <img width="1500" height="220" alt="tumblr_a50a6f76a7d665a577d19d185f8c5444_d3cd491f_2048" src="https://github.com/user-attachments/assets/08b84f65-77a6-4fdd-9f03-7cfedeaf0fa1" /> <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=yoo-joonghyukk&color=1e1e2e&labelColor=484f58&label=regressions&style=for-the-badge" alt="Regressions" />
+<img src="https://komarev.com/ghpvc/?username=yoo-joonghyukk&color=1e1e2e&labelColor=6e7681&label=regressions&style=for-the-badge" alt="Regressions" />
   <br /><br />
 <img width="1024" height="516" alt="joongdok jpg" src="https://github.com/user-attachments/assets/75bed3be-df81-4427-89a8-563ac67943ea" />
 </p>
