@@ -1,4 +1,4 @@
-<img width="1920" height="800" alt="tumblr_fa46703af3099bfd8b626c21a0622be3_a5256b8e_2048" src="https://github.com/user-attachments/assets/05a7706c-ca29-4dd4-8567-037e7fb5ec46" />
+<img width="400" height="48" alt="tumblr_a9553f93a23893cc4c1bdd4fd62a323e_17a25294_400" src="https://github.com/user-attachments/assets/f59011d4-b0e7-436b-a207-f2de8a1eb6a7" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yoo-joonghyukk&color=blue" alt="Profile Views" />
