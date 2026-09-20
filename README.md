@@ -1,5 +1,4 @@
-<img width="1500" height="220" alt="tumblr_21e92a64734f9713758610aad460d68d_7f88ea60_2048" src="https://github.com/user-attachments/assets/238a6d64-0aa5-47dd-8c32-9377a0ab0fcb" />
-
+![Uploading tumblr_a50a6f76a7d665a577d19d185f8c5444_d3cd491f_2048.png…]()
 <img width="400" height="134" alt="tumblr_5a95424f75a23b1fcf1d72c9fd53803d_e91de0f3_400" src="https://github.com/user-attachments/assets/0eab18b2-39de-4d6b-9fc0-a3d0518b7970" />
 
 
