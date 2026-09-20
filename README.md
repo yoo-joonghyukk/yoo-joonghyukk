@@ -1,3 +1,4 @@
+<img width="400" height="134" alt="tumblr_5a95424f75a23b1fcf1d72c9fd53803d_e91de0f3_400" src="https://github.com/user-attachments/assets/0eab18b2-39de-4d6b-9fc0-a3d0518b7970" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yoo-joonghyukk&color=blue" alt="Profile Views" />
