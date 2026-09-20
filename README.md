@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yoo-joonghyukk&color=blue" alt="Profile Views" />
   <br /><br />
-  <img src="joongdok.jpg" alt="Joongdok Art" />
+<img width="1024" height="516" alt="joongdok jpg" src="https://github.com/user-attachments/assets/75bed3be-df81-4427-89a8-563ac67943ea" />
 </p>
 
 
